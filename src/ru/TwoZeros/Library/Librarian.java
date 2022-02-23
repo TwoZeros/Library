@@ -1,8 +1,8 @@
-package ru.TwoZeros.Librory;
+package ru.TwoZeros.Library;
 
-import ru.TwoZeros.Librory.Interfaces.IBook;
-import ru.TwoZeros.Librory.Interfaces.ILibrarian;
-import ru.TwoZeros.Librory.Interfaces.ISupplier;
+import ru.TwoZeros.Library.Interfaces.IBook;
+import ru.TwoZeros.Library.Interfaces.ILibrarian;
+import ru.TwoZeros.Library.Interfaces.ISupplier;
 
 public class Librarian extends User implements ILibrarian {
     public Librarian(String name) {

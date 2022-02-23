@@ -1,8 +1,8 @@
-package ru.TwoZeros.Librory;
+package ru.TwoZeros.Library;
 
 
-import ru.TwoZeros.Librory.Interfaces.IBook;
-import ru.TwoZeros.Librory.Interfaces.IReader;
+import ru.TwoZeros.Library.Interfaces.IBook;
+import ru.TwoZeros.Library.Interfaces.IReader;
 
 public class GoldReader extends User implements IReader {
 

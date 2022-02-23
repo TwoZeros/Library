@@ -1,4 +1,4 @@
-package ru.TwoZeros.Librory.Interfaces;
+package ru.TwoZeros.Library.Interfaces;
 
 public interface ISupplier {
     String getName();

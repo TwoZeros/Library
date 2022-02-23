@@ -1,6 +1,6 @@
-package ru.TwoZeros.Librory;
+package ru.TwoZeros.Library;
 
-import ru.TwoZeros.Librory.Interfaces.*;
+import ru.TwoZeros.Library.Interfaces.*;
 
 public class AdminLibrarian extends User implements ILibrarian, IAdministrator {
     public AdminLibrarian(String name) {

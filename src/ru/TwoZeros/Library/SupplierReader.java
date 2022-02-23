@@ -1,8 +1,8 @@
-package ru.TwoZeros.Librory;
+package ru.TwoZeros.Library;
 
-import ru.TwoZeros.Librory.Interfaces.IBook;
-import ru.TwoZeros.Librory.Interfaces.IReader;
-import ru.TwoZeros.Librory.Interfaces.ISupplier;
+import ru.TwoZeros.Library.Interfaces.IBook;
+import ru.TwoZeros.Library.Interfaces.IReader;
+import ru.TwoZeros.Library.Interfaces.ISupplier;
 
 public class SupplierReader extends User implements ISupplier, IReader {
 

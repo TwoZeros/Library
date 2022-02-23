@@ -1,6 +1,6 @@
-package ru.TwoZeros.Librory;
+package ru.TwoZeros.Library;
 
-import ru.TwoZeros.Librory.Interfaces.IBook;
+import ru.TwoZeros.Library.Interfaces.IBook;
 
 public class Book implements IBook {
     private String name;

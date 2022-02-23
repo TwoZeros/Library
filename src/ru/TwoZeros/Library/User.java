@@ -1,4 +1,4 @@
-package ru.TwoZeros.Librory;
+package ru.TwoZeros.Library;
 
 public abstract class User {
     private String name;
