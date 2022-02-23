@@ -20,6 +20,4 @@ public class GoldReader extends User implements IReader {
         System.out.println(getName() + " вернул книгу " + book.getName());
     }
 
-
-
 }
